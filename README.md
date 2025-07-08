@@ -26,7 +26,6 @@ flask\_prompt\_api/
 │   └── test\_api.py
 ├── Screenshots/
 │   └── (All test run screenshots)
-├── requirements.txt
 └── README.md
 
 ````
